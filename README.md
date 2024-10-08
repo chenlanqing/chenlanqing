@@ -1,4 +1,4 @@
-<img align="" height="300" src="https://github-readme-stats.vercel.app/api?username=chenlanqing&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=ambient_gradient" />
+<img align="" height="300" src="https://github-readme-stats.vercel.app/api?username=chenlanqing&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=18&theme=ambient_gradient&locale=es" />
 
 ![](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat&logo=java&logoColor=fff)
